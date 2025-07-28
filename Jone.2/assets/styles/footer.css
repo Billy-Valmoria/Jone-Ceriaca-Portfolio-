@@ -1,0 +1,18 @@
+.footer-nav{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.ul-foot{
+    list-style: none;
+}
+
+.ul-foot a{
+    text-decoration: none;
+    color: #A13030;
+}
+
+.footer-nav li{
+    line-height: 25px;
+}

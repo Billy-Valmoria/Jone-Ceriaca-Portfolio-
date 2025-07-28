@@ -1,0 +1,21 @@
+#navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+
+.navlinks ul{
+    display: flex;
+    gap: 25px;
+    list-style: none;
+}
+.navlinks li a{
+    color:#A13030;
+    text-decoration: none;
+    list-style: none;
+}
+
+.navlinks a:hover{
+    color: #218275;
+}
